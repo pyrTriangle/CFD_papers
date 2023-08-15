@@ -5,4 +5,4 @@ Check https://github.com/pyrTriangle/CFD_tutorials for various CFD tutorials and
 
 Are the material helpful to you? Feel free to support: https://www.buymeacoffee.com/pyrtrianglk
 
-For more information please contact pyr.triangle@gmail.com or Georgios.Maragkos@UGent.be
+For more information please contact pyr.triangle@gmail.com
