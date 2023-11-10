@@ -1,7 +1,7 @@
 # CFD_papers
 A collection of journal papers related to CFD modelling of fire-driven flows with FireFOAM.
 
-Check https://github.com/pyrTriangle/CFD_tutorials for various CFD tutorials and https://www.youtube.com/channel/UCBqUSVif0o0aeptw82raveA for CFD videos of the tutorials.
+Check https://www.youtube.com/channel/UCBqUSVif0o0aeptw82raveA for CFD videos of various scenarios simulated with FireFOAM.
 
 Are the material helpful to you? Feel free to support: https://www.buymeacoffee.com/pyrtrianglk
 
